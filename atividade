@@ -1,0 +1,11 @@
+Exploração de gráficos
+
+Criei e modifiquei diferentes gráficos para observar como cada um apresenta os dados de maneiras diferentes.
+
+Gráfico de colunas: usei para comparar valores entre categorias, como quantidade de vitórias em cada campeonato.
+
+Gráfico de linha: usei para visualizar a evolução das vitórias e dos gols marcados ao longo dos anos.
+
+Gráfico de pizza: usei para representar a proporção de cada categoria dentro de um total.
+
+Também explorei configurações como título, cores, legendas e nomes dos eixos. Percebi que a escolha do gráfico depende das variáveis que quero analisar e do tipo de comparação que desejo fazer.
